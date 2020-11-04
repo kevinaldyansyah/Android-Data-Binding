@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="itemJurusan">
+        <item>Teknologi Informasi</item>
+        <item>Teknik Mesin</item>
+        <item>Teknik Sipil</item>
+        <item>Teknik Kimia</item>
+    </string-array>
+</resources>
